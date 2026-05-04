@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://images.unsplash.com/photo-1610136649349-0f646f318053?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VVYlMjBQcm90ZWN0aW9uJTIwU3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Lightweight Summer Dress",
+    "brand": "CoolWear",
+    "price": 35,
+    "rating": 4.5,
+    "stock": 20,
+    "description": "Breathable cotton dress ideal for hot summer days.",
+    "image": "https://images.unsplash.com/photo-1569314310775-469add9953f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fExpZ2h0d2VpZ2h0JTIwU3VtbWVyJTIwRHJlc3N8ZW58MHx8MHx8fDA%3D",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Aloe Vera Sunscreen SPF 50",
+    "brand": "SkinCarePro",
+    "price": 12,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Moisturizing sunscreen with aloe vera for skin protection.",
+    "image": "https://media.istockphoto.com/id/1450277984/photo/cosmetics-with-aloe.webp?a=1&b=1&s=612x612&w=0&k=20&c=bf5R2PR9Q5wlIz4XTF69zzqOWZUqeR3FWwwGHQf9h2A=",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Beach Flip-Flops",
+    "brand": "WaveWalk",
+    "price": 10,
+    "rating": 4.3,
+    "stock": 25,
+    "description": "Comfortable flip-flops designed for beach and casual wear.",
+    "image": "https://plus.unsplash.com/premium_photo-1681488430304-06478d0ffc43?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmVhY2glMjBGbGlwLUZsb3BzfGVufDB8fDB8fHww",
+    "category": "Footwear"
+  },
+  {
+    "id": 5,
+    "name": "Portable Cooler Bag",
+    "brand": "ChillMate",
+    "price": 22,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Insulated cooler bag to keep drinks and snacks fresh.",
+    "image": "https://media.istockphoto.com/id/579134870/photo/cooler-box-in-australian-flag-colors.webp?a=1&b=1&s=612x612&w=0&k=20&c=8idmehf4Nfmnw1Jr8ALmt8TfT1r7lJf5YdxbXfLdQkI=",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Beach Umbrella",
+    "brand": "ShadePro",
+    "price": 40,
+    "rating": 4.4,
+    "stock": 8,
+    "description": "Large beach umbrella providing shade and UV protection.",
+    "image": "https://images.unsplash.com/photo-1591574332503-152c5b4b65bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVhY2glMjBVbWJyZWxsYXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Outdoor"
+  },
+  {
+    "id": 7,
+    "name": "Hydrating Face Mist",
+    "brand": "FreshGlow",
+    "price": 9,
+    "rating": 4.5,
+    "stock": 30,
+    "description": "Refreshing face mist to keep your skin hydrated in the heat.",
+    "image": "https://plus.unsplash.com/premium_photo-1679201875251-f150cbaf4233?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SHlkcmF0aW5nJTIwRmFjZSUyME1pc3R8ZW58MHx8MHx8fDA%3D",
+    "category": "Skincare"
+  },
+  {
+    "id": 8,
+    "name": "Straw Sun Hat",
+    "brand": "BreezeStyle",
+    "price": 18,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Wide-brim straw hat for stylish sun protection.",
+    "image": "https://images.unsplash.com/photo-1758900561440-4014bdd78c10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFN0cmF3JTIwU3VuJTIwSGF0fGVufDB8fDB8fHww",
+    "category": "Accessories"
+  },
+  {
+    "id": 9,
+    "name": "Inflatable Pool Float",
+    "brand": "AquaFun",
+    "price": 25,
+    "rating": 4.7,
+    "stock": 9,
+    "description": "Colorful inflatable float for pool and beach relaxation.",
+    "image": "https://images.unsplash.com/photo-1769527818783-ff799db5e681?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SW5mbGF0YWJsZSUyMFBvb2wlMjBGbG9hdHxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Outdoor"
+  },
+  {
+    "id": 10,
+    "name": "Cooling Towel",
+    "brand": "ChillWrap",
+    "price": 8,
+    "rating": 4.2,
+    "stock": 18,
+    "description": "Reusable cooling towel to beat the summer heat.",
+    "image": "https://images.unsplash.com/photo-1766727923634-39d57e8d7538?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q29vbGluZyUyMFRvd2VsfGVufDB8fDB8fHww",
+    "category": "Accessories"
+  }
+]
