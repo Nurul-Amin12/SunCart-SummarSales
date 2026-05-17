@@ -20,7 +20,8 @@ export default function RootLayout({ children }) {
     >
       <body>
         <Navbar/>
-        {children}
+        <main className="w-[90%] md-[80%] mx-auto">{children}</main>
+        
         <Footer/>
       </body>
     </html>
