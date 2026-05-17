@@ -1,5 +1,6 @@
 import { Button, Card, Chip, Separator } from "@heroui/react";
 import Image from "next/image";
+import Link from "next/link";
 import { FaDollarSign } from "react-icons/fa";
 import { FcRating } from "react-icons/fc";
 
@@ -31,7 +32,10 @@ const ProductCard = ({product})=>{
                         <p className="text-orange-600 font-semibold">{product.rating}</p>
                     </div>
                 </div>
-                <Button variant="outline" className="w-full my-3">View Product</Button>
+                <Link href={`/All-Products/${product.id}`}>
+                    <Button variant="outline" className="w-full my-3">View Product</Button>
+                </Link>
+                
             </Card>
 
         </div>
