@@ -16,6 +16,7 @@ const ProductCard = ({product})=>{
                         src={product.image}
                         alt={product.name}
                         fill
+                        sizes="(min-width: 808px) 50vw, 100vw"
                         className="rounded-lg"
                     />
                     <Chip size="sm" className="absolute top-2 right-2">{product.category}</Chip>
